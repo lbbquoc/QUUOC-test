@@ -2,9 +2,6 @@ neu mai la ngay toi tam
 thi hay di ngu 
 
 co y gay ra conflict
-<<<<<<< HEAD
 
 ok em
-=======
-ahihihihi
->>>>>>> 575dabce8911f7a5cf0219c6beeb0b9977bc616e
+  ngay mai phai hoc that tot
